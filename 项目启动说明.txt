@@ -1,0 +1,5 @@
+参考文章：https://mp.weixin.qq.com/s/EMXy4ir5VwknR5RzHwZS_A
+
+1. python安装依赖模块：pip3 install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+2. 启动项目：python3 run_server.py
+3. 因避免8000端口被占用，默认端口已更改为8099，地址本机127.0.0.1
